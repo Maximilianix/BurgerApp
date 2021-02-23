@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "sources": [
+    "Auxiliary.js"
+  ],
+  "names": [
+    "Auxiliary",
+    "props",
+    "children"
+  ],
+  "mappings": ";;;;;;;AACA,IAAMA,SAAS,GAAG,SAAZA,SAAY,CAACC,KAAD;AAAA,SAAWA,KAAK,CAACC,QAAjB;AAAA,CAAlB;;eAEeF,S",
+  "sourcesContent": [
+    "\r\nconst Auxiliary = (props) => props.children;\r\n\r\nexport default Auxiliary;"
+  ],
+  "file": "Auxiliary.dev.js"
+}
